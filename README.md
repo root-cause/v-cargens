@@ -49,6 +49,8 @@ console.log(`Created ${count} vehicles.`);
 
 ## Notes
 
+- Big credits to the [CodeWalker](https://github.com/dexyfex/CodeWalker) project & contributors, without them this wouldn't be possible.
+
 - Even though there are 9000+ coordinates available, it doesn't mean you should spawn vehicles on all coordinates. Personally, using 20-30% of the locations is more than enough.
 
 - ZoneVehicles version didn't had any checks while generating, so car generators at land (like a car park) might have a boat as one of the vehicle models. This might change in the future but no promises.
