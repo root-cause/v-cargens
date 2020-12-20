@@ -1,14 +1,14 @@
 # v-cargens
 
-Car generator information from GTA V which you can use as vehicle spawn locations in alternative multiplayer mods, currently providing **9947** coordinates.
+Car generator information from GTA V which you can use as vehicle spawn locations in alternative multiplayer mods, currently providing **9984** coordinates.
 
 ## NoZoneVehicles Version
 
-This JSON file contains car generator coordinates and models Rockstar specified in YMAP files. Only **1084** coordinates have pre-defined vehicle models, you can either keep them or ignore them and spawn your own vehicles.
+This JSON file contains car generator coordinates and models Rockstar specified in YMAP files. Only **1121** coordinates have pre-defined vehicle models, you can either keep them or ignore them and spawn your own vehicles.
 
 ## ZoneVehicles Version
 
-In addition to NoZoneVehicles data, this JSON file has vehicle models that have a chance to spawn at the coordinates. In this version **9905** coordinates have pre-defined vehicle models. (Generated from popcycle.dat)
+In addition to NoZoneVehicles data, this JSON file has vehicle models that have a chance to spawn at the coordinates. In this version **9942** coordinates have pre-defined vehicle models. (Generated from popcycle.dat)
 
 ## Example Car Generator
 
